@@ -29,6 +29,7 @@ class RemoveDuplicates:
                     
                 i = i + 1
         print (">>>> Duplicate Numbers are >>>> ", duplicates)   
+        print (">>>> After Removing Duplicate Numbers >>>> ", set)   
              
         
 obj = RemoveDuplicates()
