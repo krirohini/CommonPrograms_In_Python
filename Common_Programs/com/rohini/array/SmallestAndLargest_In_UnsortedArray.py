@@ -3,7 +3,6 @@ Created on Feb 12, 2019
 
 @author: r.kumari
 '''
-import array
 
 class SmallestAndLargest_In_UnsortedArray:
 
@@ -34,4 +33,4 @@ class SmallestAndLargest_In_UnsortedArray:
         print (">>>> largest >>>> ", largest)
         
 obj = SmallestAndLargest_In_UnsortedArray()
-obj.smallestAndLargest([1,4, 2, 9, 0, -5, -2])
+obj.smallestAndLargest([1,4, 2, 9, 0, -5, -2, 555, -21])
